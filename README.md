@@ -1,8 +1,8 @@
 <h1>About</h1>
 
-- 👋 Hi, I’m @Norbert731
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning java script
+- 👋 Hi, I’m Norbert
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JavaScript
 
 /***/Have a nice day!!!/***/
 
