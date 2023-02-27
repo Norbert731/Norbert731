@@ -4,7 +4,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 
-/***/Have a nice day!!!/***/
+***Have a nice day!!!***
 
 <!---
 Norbert731/Norbert731 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
