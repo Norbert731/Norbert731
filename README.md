@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Norbert
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, React and .NET
 
 ***Have a nice day!!!***
 
